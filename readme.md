@@ -1,4 +1,4 @@
-# PhoneGap Workshop #
+# PhoneGap Workshop Test #
 
 In this tutorial, you create a fully functional employee directory application with PhoneGap. You will learn:
 
